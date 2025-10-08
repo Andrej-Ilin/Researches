@@ -208,7 +208,6 @@ __marimo__/
 
 # Project-specific ignores
 *.dot
-*.png
 data/
 config.json
 .pytest_cache/
